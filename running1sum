@@ -1,0 +1,27 @@
+import java.util.*;
+public class Main
+{
+	public static void main(String[] args) {
+	Scanner sc=new Scanner (System.in);
+	int num[] = new int[5];
+	for(int i=0;i<5;i++){
+	    nums[i]=sc.nextInt();
+	}
+	}
+     runningSum(num);
+     
+}
+	
+	
+	
+class Solution {
+    public int[] runningSum(int[] nums) {
+    int[] ans = new int[nums.length];
+    ans[0] = nums[0];
+    for (int i = 1; i < nums.length; i++){
+        ans[i] = ans[i-1] + nums[i];
+    }
+    return ans;
+}}
+
+
