@@ -19,7 +19,6 @@ public class Main
         }
 
         return second;
-
    }
    public static void main(String args[])
    {
