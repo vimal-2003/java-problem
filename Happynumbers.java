@@ -3,9 +3,7 @@ public class HappyNumber
 {     
     //isHappyNumber() will determine whether a number is happy or not  
     public static int isHappyNumber(int num){  
-        int rem = 0, sum = 0;  
-          
-        //Calculates the sum of squares of digits  
+        int rem = 0, sum = 0;    
         while(num > 0){  
             rem = num%10;  
             sum = sum + (rem*rem);  
