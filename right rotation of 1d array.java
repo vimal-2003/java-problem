@@ -13,7 +13,6 @@ public class Main {
             arr[i] = sc.nextInt();
         }
         
-        
         k = k % n;
         for (int j = 0; j < k; j++) {
             int temp = arr[n-1];
