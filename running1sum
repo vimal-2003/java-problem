@@ -9,11 +9,7 @@ public class Main
 	}
 	}
      runningSum(num);
-     
 }
-	
-	
-	
 class Solution {
     public int[] runningSum(int[] nums) {
     int[] ans = new int[nums.length];
