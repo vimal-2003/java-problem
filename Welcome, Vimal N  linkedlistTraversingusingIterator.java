@@ -20,8 +20,6 @@ public class LinkedList3 {
               System.out.println("After invoking remove(index) method: "+ll);   
               LinkedList<String> ll2=new LinkedList<String>();  
               ll2.add("Ravi");  
-              ll2.add("Hanumat");  
-         // Adding new elements to arraylist  
               ll.addAll(ll2);  
               System.out.println("Updated list : "+ll);   
          //Removing all the new elements from arraylist  
