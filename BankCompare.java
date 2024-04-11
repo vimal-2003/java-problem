@@ -8,7 +8,6 @@ public class Main {
         int t = sc.nextInt();
         double total_emi_a = 0;
         double total_emi_b = 0;
-        // Loop twice to handle Bank A and Bank B
         for (int times = 0; times < 2; times++) {
             // Get the number of slabs
             System.out.println("Enter the number of slabs: ");
