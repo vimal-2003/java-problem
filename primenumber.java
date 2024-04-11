@@ -19,7 +19,6 @@ public static void main(String[] args) {
            if(count==2)
              {
          System.out.print(i+ " ");
-   
      }
  }
 }
