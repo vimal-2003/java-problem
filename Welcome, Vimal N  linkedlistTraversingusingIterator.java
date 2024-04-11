@@ -16,7 +16,6 @@ public class LinkedList3 {
            System.out.println("Initial list of elements: "+ll);   
               ll.remove("Vijay");  
               System.out.println("After invoking remove(object) method: "+ll);   
-         //Removing element on the basis of specific position  
               ll.remove(0);  
               System.out.println("After invoking remove(index) method: "+ll);   
               LinkedList<String> ll2=new LinkedList<String>();  
