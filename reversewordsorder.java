@@ -3,8 +3,6 @@ public class ReverseWordsExample {
     public static void main(String[] args) {
         ReverseWordsExample example = new ReverseWordsExample();
         String input = "Hello World! Java is awesome.";
-
-        // Call the reverseWords method
         String reversedWords = example.reverseWords(input);
 
         // Display the result
