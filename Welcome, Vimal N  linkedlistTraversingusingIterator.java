@@ -13,8 +13,7 @@ public class LinkedList3 {
            ll.add("Gaurav");  
            ll.add("Harsh");  
            ll.add("Amit");  
-           System.out.println("Initial list of elements: "+ll);  
-         //Removing specific element from arraylist  
+           System.out.println("Initial list of elements: "+ll);   
               ll.remove("Vijay");  
               System.out.println("After invoking remove(object) method: "+ll);   
          //Removing element on the basis of specific position  
