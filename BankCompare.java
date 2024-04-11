@@ -4,7 +4,6 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the principal amount:");
         int p = sc.nextInt();
-        // Get the total tenure
         System.out.println("Enter the total tenure in years:");
         int t = sc.nextInt();
         // Initialize variables to store total EMI values for each bank
