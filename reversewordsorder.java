@@ -2,8 +2,6 @@ import java.util.*;
 public class ReverseWordsExample {
     public static void main(String[] args) {
         ReverseWordsExample example = new ReverseWordsExample();
-        
-        // Example input
         String input = "Hello World! Java is awesome.";
 
         // Call the reverseWords method
