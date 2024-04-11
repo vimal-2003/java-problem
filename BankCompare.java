@@ -6,7 +6,6 @@ public class Main {
         int p = sc.nextInt();
         System.out.println("Enter the total tenure in years:");
         int t = sc.nextInt();
-        // Initialize variables to store total EMI values for each bank
         double total_emi_a = 0;
         double total_emi_b = 0;
         // Loop twice to handle Bank A and Bank B
