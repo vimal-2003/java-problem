@@ -19,7 +19,6 @@ public class ReverseWordsExample {
                 result.append(words[i]);
             }
         }
-
         return result.toString();
     }
 }
