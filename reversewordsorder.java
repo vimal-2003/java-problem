@@ -4,8 +4,6 @@ public class ReverseWordsExample {
         ReverseWordsExample example = new ReverseWordsExample();
         String input = "Hello World! Java is awesome.";
         String reversedWords = example.reverseWords(input);
-
-        // Display the result
         System.out.println("Original: " + input);
         System.out.println("Reversed: " + reversedWords);
     }
