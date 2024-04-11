@@ -2,7 +2,6 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        // Get the principal amount
         System.out.println("Enter the principal amount:");
         int p = sc.nextInt();
         // Get the total tenure
