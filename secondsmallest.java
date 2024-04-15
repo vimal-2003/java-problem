@@ -22,7 +22,6 @@ public class Main
    }
    public static void main(String args[])
    {
-
       int arr[] = {12, 13, 1, 10, 34, 10};
       int n = arr.length;
       System.out.print(secSmallest(arr, n)); 
