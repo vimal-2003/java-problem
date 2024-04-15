@@ -19,9 +19,7 @@ public class HappyNumber
           
         while(result != 1 && result != 4){  
             result = isHappyNumber(result);  
-        }  
-          
-        //Happy number always ends with 1  
+        }   
         if(result == 1)  
             System.out.println(num + " is a happy number");  
         //Unhappy number ends in a cycle of repeating numbers which contains 4  
