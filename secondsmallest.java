@@ -1,6 +1,5 @@
 import java.util.Scanner;
 import java.util.*;
-
 public class Main
 { 
    static int secSmallest(int arr[], int n)
