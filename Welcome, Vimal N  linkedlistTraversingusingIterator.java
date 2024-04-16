@@ -38,7 +38,6 @@ public class LinkedList3 {
               ll.removeLastOccurrence("Harsh");  
               System.out.println("After invoking removeLastOccurrence() method: "+ll);  
   
-              //Removing all the elements available in the list       
               ll.clear();  
               System.out.println("After invoking clear() method: "+ll);   
        }  
