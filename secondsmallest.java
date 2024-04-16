@@ -16,7 +16,6 @@ public class Main
             else if(second>arr[i])
            second = arr[i];
         }
-
         return second;
    }
    public static void main(String args[])
