@@ -25,3 +25,4 @@ public class HappyNumber
             System.out.println(num + " is not a happy number");     
     }  
 }
+
