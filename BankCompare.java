@@ -38,7 +38,7 @@ public class Main {
             }
         }
 
-        // Decide which bank to choose based on total EMI
+      
         if (total_emi_a < total_emi_b) {
             System.out.println("Bank A");
         } else {
