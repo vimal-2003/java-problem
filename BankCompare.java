@@ -30,7 +30,7 @@ public class Main {
                 total_emi += emi;
             }
 
-            // Store the total EMI for the current bank in the variable
+           
             if (times == 0) {
                 total_emi_a = total_emi;
             } else {
