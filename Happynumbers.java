@@ -18,6 +18,7 @@ public class HappyNumber
         while(result != 1 && result != 4){  
             result = isHappyNumber(result);  
         }   
+        
         if(result == 1)  
             System.out.println(num + " is a happy number");  
         else if(result == 4)  
