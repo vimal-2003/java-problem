@@ -26,7 +26,7 @@ public class LinkedList3 {
         
               ll.removeAll(ll2);  
               System.out.println("After invoking removeAll() method: "+ll);   
-         //Removing first element from the list  
+     
               ll.removeFirst();  
               System.out.println("After invoking removeFirst() method: "+ll);  
           //Removing first element from the list  
