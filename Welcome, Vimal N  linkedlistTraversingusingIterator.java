@@ -29,7 +29,7 @@ public class LinkedList3 {
      
               ll.removeFirst();  
               System.out.println("After invoking removeFirst() method: "+ll);  
-          //Removing first element from the list  
+         
               ll.removeLast();  
               System.out.println("After invoking removeLast() method: "+ll);  
           //Removing first occurrence of element from the list  
