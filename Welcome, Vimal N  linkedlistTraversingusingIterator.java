@@ -35,7 +35,7 @@ public class LinkedList3 {
         
               ll.removeFirstOccurrence("Gaurav");  
               System.out.println("After invoking removeFirstOccurrence() method: "+ll);  
-          //Removing last occurrence of element from the list  
+            
               ll.removeLastOccurrence("Harsh");  
               System.out.println("After invoking removeLastOccurrence() method: "+ll);  
   
