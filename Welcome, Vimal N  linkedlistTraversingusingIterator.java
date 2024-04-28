@@ -23,7 +23,7 @@ public class LinkedList3 {
               ll2.add("Ravi");  
               ll.addAll(ll2);  
               System.out.println("Updated list : "+ll);   
-         //Removing all the new elements from arraylist  
+        
               ll.removeAll(ll2);  
               System.out.println("After invoking removeAll() method: "+ll);   
          //Removing first element from the list  
