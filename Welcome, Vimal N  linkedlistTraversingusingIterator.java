@@ -32,7 +32,7 @@ public class LinkedList3 {
          
               ll.removeLast();  
               System.out.println("After invoking removeLast() method: "+ll);  
-          //Removing first occurrence of element from the list  
+        
               ll.removeFirstOccurrence("Gaurav");  
               System.out.println("After invoking removeFirstOccurrence() method: "+ll);  
           //Removing last occurrence of element from the list  
