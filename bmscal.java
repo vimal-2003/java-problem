@@ -4,7 +4,7 @@ public class BMICalculator {
 
     public static void main(String[] args) {
 
-        // Create a Scanner object for user input
+        
         Scanner scanner = new Scanner(System.in);
 
         // Prompt user to input weight in kilograms and height in meters
