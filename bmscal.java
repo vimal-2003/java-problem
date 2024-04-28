@@ -17,7 +17,7 @@ public class BMICalculator {
        
         double bmi = weight / (height * height);
 
-        // Output the calculated BMI
+      
         System.out.println("Your BMI is: " + bmi);
 
         // Close the Scanner
