@@ -19,6 +19,7 @@ public class Main {
             }
             arr[n-1] = temp;
         }
+        
        System.out.print(Arrays.toString(arr));
     }
 }
