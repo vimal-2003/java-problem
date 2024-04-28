@@ -20,7 +20,6 @@ public class Main {
             }
             arr[0] = temp;
         }
-        
        System.out.print(Arrays.toString(arr));
     }
 }
